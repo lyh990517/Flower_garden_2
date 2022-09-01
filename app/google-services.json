@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439608923979",
+    "firebase_url": "https://flower-garden2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flower-garden2",
+    "storage_bucket": "flower-garden2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439608923979:android:9c37883ad07c2aa758face",
+        "android_client_info": {
+          "package_name": "yunho.app.flower_garden_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439608923979-ifufc45hjkrfqgqf0ho2ta6ufgatj3oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNbatJnAsygRT_nCcU1CKbfZJ8-3VxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439608923979-ifufc45hjkrfqgqf0ho2ta6ufgatj3oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
